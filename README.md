@@ -58,6 +58,13 @@ The dataset contains the following columns:
 - Boxplots were used to detect and remove extreme outliers from the dataset.
 - A correlation matrix was plotted to identify feature relationships and redundancy. The **Name** column was dropped due to high correlation with **Brand**.
 
+![dist](https://github.com/user-attachments/assets/7ac9e4af-8be4-4201-89d9-cf0b6cbb8454)
+![image](https://github.com/user-attachments/assets/712512de-857c-4bed-8dff-2a322b619e53)
+![image](https://github.com/user-attachments/assets/0f9c1da6-5d66-40fb-80db-3216f071171c)
+![image](https://github.com/user-attachments/assets/6663794f-3bb4-441d-a052-547feabe6039)
+![corr](https://github.com/user-attachments/assets/04fe92b9-0b6b-4fc5-a6c6-37eb462135e9)
+
+
 ## Modeling
 We developed and compared several machine learning models using the processed dataset:
 1. **Linear Regression**
