@@ -91,7 +91,7 @@ The **LightGBM Regressor** performed the best with an MSE of 3.86 and an R² Sco
 - **MLflow**: For tracking experiments and logging models
 
 Install the required libraries:
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
