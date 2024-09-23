@@ -90,16 +90,5 @@ The **LightGBM Regressor** performed the best with an MSE of 3.86 and an R² Sco
 - **LightGBM**: For the LightGBM Regressor
 - **MLflow**: For tracking experiments and logging models
 
-## How to Run
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/username/Car-Price-Regression.git
-    ```
-2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the notebook or script for model training and evaluation.
-
 ## Conclusion
 This project demonstrates how to preprocess and engineer features for a regression task, and how to build and compare multiple machine learning models to predict car prices. Among the models used, **LightGBM** performed the best in terms of accuracy and efficiency.
